@@ -105,7 +105,7 @@ Name on Invoice: $noi<br>
 	echo "</table>
 <br><table border=1 cellspacing=0 cellpadding=4>
 <tr><td><img src=images/accounting.jpg></td>
-<td><img src=images/cost.jpg></td>
+<td><a href=timeline.php?number=$number><img src=images/cost.jpg></a></td>
 <td><img src=images/comparison.jpg></td></tr>
 </table>
 <br><br></body></html>\n";
